@@ -1,0 +1,20 @@
+﻿front,back
+-ment,"d?c(le bâtiment, le sentiment, le document)"
+-ent,d?c(un president)
+-phone,d?c(le téléphone)
+-scope,d?c(le télescope)
+-eau,d?c(le bureau)
+-al,d?c(le journal)
+-isme,d?c(le communism)
+-age,"d?c(Le garage).Exception : la nage(boi), la cage(l?ng), la plage(bãi bi?n), l'image(b?c tranh)"
+-teur/eur,"d?c(l'ordinateur).Exception : La couleur, la fleur."
+"-tion/ion, -sion, -xion","cái(la solution, la télévision, la décision, la connexion)"
+-ie,"cái(la chime""hóa h?c"",la biologie)"
+-té,"cái(La resalité, la bonté""lòng t?t"")"
+-ure,"cái(la culture, la peinture)"
+-ette,"cái(la bicyclette, la cigarette)"
+-esse,cái(l'adresse)
+"-ade, -ode, -ude","cái(la salade, la méthode, la solitude)"
+-aision,"cái(la combinaison ""s? ph?i h?p"")"
+-ée,"cái(la journée""mùa"").Exception: le muse, le lycée)"
+"-ence, -ance, -anse, -ense","cái(la différence, la connaissance, la danse,la dépense""chi phí"").Exception : le silence"

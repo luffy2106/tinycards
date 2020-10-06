@@ -1,0 +1,11 @@
+﻿front,back
+Stress on first syllable(most 2-syllable nouns),"PREsent, EXport, CHIna, TAble"
+Stress on first syllable(most 2-syllable adjectives),"PREsent, SLENder, CLEVer, HAPpy"
+Stress on last syllable(most 2-syllable verbs),"preSENT, exPORT, deCIDE, beGIN"
+"Stress on ""second from end"" syllable(word ending in -ic)","GRAPHic, geoGRAPHic, geoLOGic"
+"Stress on ""second from end"" syllable(words ending in -sion and -tion)","teleVIsion, releLAtion"
+"Stress on ""third from end""(word ending in -cy, -ty, -phy, -gy)","deMOcracy, dependaBILLity, phoTOgraphy, geOLogy"
+"Stress on ""third from end""(word ending in -al)","CRItical, geoLOGical"
+"For compound nouns, the stress is on the first part","BLACKbird, GREENhouse"
+"For compound adjectives, the stress is on the second part","bad-TEMpered, old-FASHioned"
+"For compound verbs, the stress is on the second part","believe IN, carry OUT, take OVER, ask FOR"
