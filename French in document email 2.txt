@@ -1,0 +1,426 @@
+### Card 1
+Front
+* prendre effet. Vos options prendront effet aprÃ¨s activation de votre espace particulier
+
+Back
+* take effect. Your options will take effect after activation of your particular space
+
+### Card 2
+Front
+* l'impÃ´t sur les revenues
+
+Back
+* income tax
+
+### Card 3
+Front
+* coordonnÃ©es bancaire
+
+Back
+* bank details
+
+### Card 4
+Front
+* les Ã©ventuels. Celui-ci est utile pour les Ã©ventuels prÃ©lÃ¨vement d'acompte
+
+Back
+* any. This is useful for any down payment.
+
+### Card 5
+Front
+* restitution. l'Ã©ventuel versement d'une restitution
+
+Back
+* refund. The possible payment of a refund
+
+### Card 6
+Front
+* d'une avance de crÃ©dit
+
+Back
+* credit advance(tạm ứng tÃ­n dụng)
+
+### Card 7
+Front
+* rÃ©duction d'impÃ´t
+
+Back
+* tax reduction
+
+### Card 8
+Front
+* solde. Le paiement d'un solde d'impot sur les revenus
+
+Back
+* balance. Payment of an income tax balance
+
+### Card 9
+Front
+* Frais rÃ©els dÃ©ductibles
+
+Back
+* What are real deductible costs? By default, the administration applies a "standard deduction" of 10% "on the salaries of civil servants and private sector salaries to determine the amount of net taxable income used to calculate the tax.
+
+### Card 10
+Front
+* barÃ¨me. impÃ´t sur les revenus soumis au barÃ¨me
+
+Back
+* scale. income tax subject to the scale
+
+### Card 11
+Front
+* reprises. Reprises Ã©ventuelles
+
+Back
+* recovery. Possbile recovery.
+
+### Card 12
+Front
+* taux personnalisÃ©. Taux personnalisÃ© qui sera utilise votre organisme collecteu
+
+Back
+* custome rate. t? l? tÃ¹y ch?nh s? du?c s? d?ng b?i co quan thu th?p c?a b?n
+
+### Card 13
+Front
+* employeur
+
+Back
+* employer
+
+### Card 14
+Front
+* caisse de retraite
+
+Back
+* pension fund(quỹ huu trÃ­)
+
+### Card 15
+Front
+* enfants mineurs
+
+Back
+* trẻ vị thÃ nh niÃªn
+
+### Card 16
+Front
+* personnes recueillies handicapÃ©es
+
+Back
+* people with disabilities
+
+### Card 17
+Front
+* joigner. joignez un copie de justificatif de votre identitÃ©
+
+Back
+* attach. attach a copy of proof of your identity
+
+### Card 18
+Front
+* conjoint
+
+Back
+* spouse(vợ/chồng)
+
+### Card 19
+Front
+* auquel. nom auquel vos courriers seront adressÃ©s
+
+Back
+* to which. name to which your mails will be addressed
+
+### Card 20
+Front
+* escalier
+
+Back
+* staircase
+
+### Card 21
+Front
+* l'audiovisuel public
+
+Back
+* public broadcasting
+
+### Card 22
+Front
+* foyer fiscal
+
+Back
+* tax household(thuế nhÃ  đất)
+
+### Card 23
+Front
+* souscriver. Si vous souscrivez une dÃ©claration d'impot
+
+Back
+* subscribe. If you subscribe a tax declaration
+
+### Card 24
+Front
+* la fortune immobiliÃ¨re
+
+Back
+* real estate fortune
+
+### Card 25
+Front
+* pacsÃ©(status)
+
+Back
+* ở chung nhung ko cuoi
+
+### Card 26
+Front
+* veuf(status)
+
+Back
+* gÃ³a(vo/chong)
+
+### Card 27
+Front
+* opter
+
+Back
+* choose
+
+### Card 28
+Front
+* donner droit.situation pouvant donner droit Ã  une demi-part supplementaire
+
+Back
+* situation which may give right to an additional half share
+
+### Card 29
+Front
+* vivre
+
+Back
+* live
+
+### Card 30
+Front
+* en cas de divorce
+
+Back
+* in case of divorce
+
+### Card 31
+Front
+* pension pour invaliditÃ©
+
+Back
+* disability pension(trợ cấp tÃ n tật)
+
+### Card 32
+Front
+* titulaire
+
+Back
+* holder
+
+### Card 33
+Front
+* remplir. Votre conjoint remplit ces conditions.
+
+Back
+* fill. Your spouse fills these conditions.
+
+### Card 34
+Front
+* dÃ©cÃ©der. Il est dÃ©cÃ©dÃ©.
+
+Back
+* dead. He is dead
+
+### Card 35
+Front
+* carte du combattant
+
+Back
+* card của nguoi phuc vu trong quÃ¢n đội
+
+### Card 36
+Front
+* victime de guerre
+
+Back
+* war victim
+
+### Card 37
+Front
+* d'enfant non mariÃ©s chargÃ©s de famille
+
+Back
+* nguoi con chua lap gia dÃ¬nh nhung s?ng vÃ  ch?u trÃ¡ch nhiem voi gia dÃ¬nh
+
+### Card 38
+Front
+* recueillir.Les voisins ont recueilli cette famille
+
+Back
+* gather. The neighbors gatered in this family
+
+### Card 39
+Front
+* Ã  charge. Enfants Ã  charge.
+
+Back
+* dependent. Dependent children.
+
+### Card 40
+Front
+* toit
+
+Back
+* roof
+
+### Card 41
+Front
+* ne qu'Ã . Vos coordonnÃ©es bancaires ne seront utilisÃ©es qu'Ã  partir du 1 Janvier 2019.
+
+Back
+* only. Your bank details will only be used from January 1, 2019.
+
+### Card 42
+Front
+* dÃ©cret
+
+Back
+* ngh? d?nh
+
+### Card 43
+Front
+* le cadre la lutte contre la propagation du virus Covid-19
+
+Back
+* cuoc chien chong lai su lÃ¢y lan cua virus Covid-19.
+
+### Card 44
+Front
+* demeurant
+
+Back
+* residing(cu trÃº)
+
+### Card 45
+Front
+* liÃ©(adj)
+
+Back
+* bound(rÃ ng buoc)
+
+### Card 46
+Front
+* cocher la case
+
+Back
+* check the box
+
+### Card 47
+Front
+* faire opposition Ã  ma carte
+
+Back
+* khÃ³a(dÃ³ng) thẻ ngÃ¢n hÃ ng lại(khi bị giật tÃºi)
+
+### Card 48
+Front
+* relevÃ©(n)
+
+Back
+* statement
+
+### Card 49
+Front
+* touche(n)
+
+Back
+* fingerboard
+
+### Card 50
+Front
+* carnet de chÃ¨ques
+
+Back
+* Cheque book(cua ngÃ¢n hÃ ng)
+
+### Card 51
+Front
+* dÃ©crocher. Un tÃ©lÃ©-conseiller dÃ©croche tout de suite.
+
+Back
+* take the line(phone)
+
+### Card 52
+Front
+* ReÂ´pondez a` l'enquÃªte
+
+Back
+* Respond the survey
+
+### Card 53
+Front
+* vous remplissez la fiche de satisfaction
+
+Back
+* you fill out the satisfaction form
+
+### Card 54
+Front
+* un renvoi. Le Procureur peut procÃ©der Ã  un renvoi devant le Tribunal Correctionnel.
+
+Back
+* a reference
+
+### Card 55
+Front
+* l'inauguration. Nous venons d'assister Ã  l'inauguration d'exposition de Pierre.
+
+Back
+* lễ khÃ¡nh thÃ nh
+
+### Card 56
+Front
+* la rubrique. Choisissez un Ã©lÃ©ment de chaque rubrique.
+
+Back
+* the section
+
+### Card 57
+Front
+* en Ã©sparant que ce courrier retiendra votre attention
+
+Back
+* hoping that this post will catch your attention(dÃ¹ng để viết vÃ o cuối thư)
+
+### Card 58
+Front
+* Je vous prie d'agre, Madame, l'expression de mes sentiments les meilleurs
+
+Back
+* please accept, Madam, the expression of my best feeling(dÃ¹ng để viết vÃ o cuối thư)
+
+### Card 59
+Front
+* sincÃ¨re salutation = affectueusement
+
+Back
+* best regards(viết vào cuối thư)
+
+### Card 60
+Front
+* je vous en prie
+
+Back
+* you are welcome
+
+### Card 61
+Front
+* amicalement,
+
+Back
+* all the best, (viết vào cuối thư)
